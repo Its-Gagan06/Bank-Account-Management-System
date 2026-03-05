@@ -12,4 +12,4 @@ It fulfils the following functionalities:
 
 1: Creation of a Bank Account
 2: Updation of a Bank Balance 
-23: Display Account Details
+3: Display Account Details
